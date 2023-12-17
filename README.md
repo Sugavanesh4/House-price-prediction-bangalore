@@ -1,4 +1,4 @@
-# House-price-prediction-bengalore
+# House-price-prediction-bangalore
 The project aimed to predict house prices in Bangalore using a Linear Regression model while implementing K-fold cross-validation and GridSearchCV for model selection and evaluation. 
 
 The final accuracy achieved was 0.847951. 
